@@ -15,10 +15,8 @@ A Node.js CLI tool that merges recruiter CSV data and unstructured resume text i
    - [1. Clone & Install](#1-clone--install)
    - [2. Run the Pipeline](#2-run-the-pipeline)
 7. [Configuration](#configuration)
-8. [Demo Video](#demo-video)
-9. [Testing](#testing)
-10. [Project Structure](#project-structure)
-12. [Contact](#contact)
+8. [Testing](#testing)
+9. [Project Structure](#project-structure)
 
 ---
 
