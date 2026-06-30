@@ -1,0 +1,27 @@
+{
+  "name": "candidate-data-transformer",
+  "version": "1.0.0",
+  "description": "Multi-source candidate data transformer CLI for canonical profile generation.",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/cli.js",
+    "test": "node --experimental-vm-modules ./tests/run-tests.js"
+  },
+  "keywords": [
+    "candidate",
+    "transformer",
+    "cli",
+    "data-normalization",
+    "provenance"
+  ],
+  "author": "",
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "uuid": "^9.0.0",
+    "csv-parser": "^3.0.0"
+  },
+  "devDependencies": {}
+}

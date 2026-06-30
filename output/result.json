@@ -1,0 +1,137 @@
+[
+  {
+    "candidate_id": "fb45bd9e-babf-434d-bf24-d9ab14c734b6",
+    "full_name": "John Andrew Doe",
+    "emails": [
+      "john.doe@gmail.com",
+      "john.work@gmail.com"
+    ],
+    "phones": [
+      "+919876543210"
+    ],
+    "location": {
+      "city": "Bangalore",
+      "region": "Karnataka",
+      "country": "India"
+    },
+    "headline": "Senior Backend Software Engineer",
+    "skills": [
+      "AWS",
+      "Docker",
+      "Express.js",
+      "JavaScript",
+      "MongoDB",
+      "Node.js",
+      "PostgreSQL",
+      "React",
+      "TypeScript"
+    ],
+    "links": {
+      "linkedin": "https://linkedin.com/in/johnandrewdoe",
+      "github": "https://github.com/johndoe",
+      "portfolio": "https://johndoe.dev",
+      "other": []
+    },
+    "years_experience": 7,
+    "experience": [
+      {
+        "company": "Google",
+        "title": "Senior Software Engineer",
+        "start": "Jan 2022",
+        "end": "Present",
+        "summary": "Building scalable backend microservices for Google Cloud. Designed REST APIs using Node.js and Express. Worked with PostgreSQL and Redis."
+      },
+      {
+        "company": "Microsoft",
+        "title": "Software Engineer",
+        "start": "Jul 2019",
+        "end": "Dec 2021",
+        "summary": "Developed enterprise APIs. Worked on Azure cloud services. Built internal developer tools."
+      }
+    ],
+    "education": [
+      {
+        "institution": "ABC University",
+        "degree": "Bachelor of Technology",
+        "field": "Computer Science and Engineering",
+        "end_year": "2022"
+      }
+    ],
+    "confidence": {
+      "fieldConfidence": {
+        "full_name": 1,
+        "emails": 1,
+        "phones": 1,
+        "location": 0.7,
+        "headline": 1,
+        "skills": 1,
+        "experience": 0.9,
+        "education": 0.9,
+        "current_company": 0
+      },
+      "overallConfidence": 0.94
+    },
+    "provenance": [
+      {
+        "field": "full_name",
+        "source": "resume",
+        "method": "regex"
+      },
+      {
+        "field": "full_name",
+        "source": "csv",
+        "method": "csv column"
+      },
+      {
+        "field": "emails",
+        "source": "resume",
+        "method": "regex"
+      },
+      {
+        "field": "phones",
+        "source": "resume",
+        "method": "regex"
+      },
+      {
+        "field": "location",
+        "source": "resume",
+        "method": "regex"
+      },
+      {
+        "field": "location",
+        "source": "csv",
+        "method": "csv column"
+      },
+      {
+        "field": "headline",
+        "source": "resume",
+        "method": "regex"
+      },
+      {
+        "field": "headline",
+        "source": "csv",
+        "method": "csv column"
+      },
+      {
+        "field": "skills",
+        "source": "resume",
+        "method": "regex"
+      },
+      {
+        "field": "skills",
+        "source": "csv",
+        "method": "csv column"
+      },
+      {
+        "field": "experience",
+        "source": "resume",
+        "method": "regex"
+      },
+      {
+        "field": "education",
+        "source": "resume",
+        "method": "regex"
+      }
+    ]
+  }
+]

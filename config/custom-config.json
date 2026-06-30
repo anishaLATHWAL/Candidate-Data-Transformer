@@ -1,0 +1,27 @@
+{
+  "fields": [
+    {
+      "path": "full_name",
+      "type": "string",
+      "required": true
+    },
+    {
+      "path": "emails",
+      "type": "string",
+      "required": true
+    },
+    {
+      "path": "skills",
+      "type": "array",
+      "required": false
+    },
+    {
+      "path": "links",
+      "type": "object",
+      "required": false
+    }
+  ],
+  "include_confidence": true,
+  "include_provenance": false,
+  "on_missing": "null"
+}

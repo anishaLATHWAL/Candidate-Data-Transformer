@@ -1,0 +1,40 @@
+[
+  {
+    "full_name": "John Andrew Doe",
+    "emails": [
+      "john.doe@gmail.com",
+      "john.work@gmail.com"
+    ],
+    "skills": [
+      "AWS",
+      "Docker",
+      "Express.js",
+      "JavaScript",
+      "MongoDB",
+      "Node.js",
+      "PostgreSQL",
+      "React",
+      "TypeScript"
+    ],
+    "links": {
+      "linkedin": "https://linkedin.com/in/johnandrewdoe",
+      "github": "https://github.com/johndoe",
+      "portfolio": "https://johndoe.dev",
+      "other": []
+    },
+    "confidence": {
+      "fieldConfidence": {
+        "full_name": 1,
+        "emails": 1,
+        "phones": 1,
+        "location": 0.7,
+        "headline": 1,
+        "skills": 1,
+        "experience": 0.9,
+        "education": 0.9,
+        "current_company": 0
+      },
+      "overallConfidence": 0.94
+    }
+  }
+]

@@ -1,0 +1,73 @@
+John Andrew Doe
+
+Senior Backend Software Engineer
+
+Email: john.doe@gmail.com
+Email: john.work@gmail.com
+
+Phone: +91 9876543210
+
+Location: Bangalore, Karnataka, India
+
+LinkedIn:
+https://linkedin.com/in/johnandrewdoe
+
+GitHub:
+https://github.com/johndoe
+
+Portfolio:
+https://johndoe.dev
+
+----------------------------------
+SKILLS
+----------------------------------
+
+JavaScript
+TypeScript
+Node.js
+Express.js
+React
+MongoDB
+PostgreSQL
+Docker
+AWS
+
+----------------------------------
+EXPERIENCE
+----------------------------------
+
+Google
+
+Senior Software Engineer
+
+Jan 2022 - Present
+
+Building scalable backend microservices for Google Cloud.
+Designed REST APIs using Node.js and Express.
+Worked with PostgreSQL and Redis.
+
+----------------------------------
+
+Microsoft
+
+Software Engineer
+
+Jul 2019 - Dec 2021
+
+Developed enterprise APIs.
+Worked on Azure cloud services.
+Built internal developer tools.
+
+----------------------------------
+EDUCATION
+----------------------------------
+
+ABC University
+
+Bachelor of Technology
+
+Computer Science and Engineering
+
+2022
+
+
